@@ -12,7 +12,7 @@ export default () => (
       <FontAwesomeIcon icon={faMediumM} size='3x' color='#fff' />
     </a>
     <a 
-      href='https://github.com/funador/react-image-upload' 
+      href='https://github.com/Sebastion-Vigil/react-image-upload' 
       title='Github repo'
       className={'small-button github'}
     >
